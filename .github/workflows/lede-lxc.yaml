@@ -1,4 +1,4 @@
-name:  OpenWrt-lede
+name:  OpenWrt-lede-lxc
 
 on: 
   workflow_dispatch:

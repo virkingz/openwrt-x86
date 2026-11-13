@@ -2,7 +2,7 @@
 # =======================================================================================================================
 # 1-添加vnt插件
 #git clone https://github.com/lmq8267/luci-app-vnt.git package/vnt
-git clone https://github.com/whzhni1/luci-app-vnt2.git package/vnt2
+git clone https://github.com/weicaixian86/luci-app-vnt2cli.git package/vnt2
 
 # 添加外部插件
 sed -i '1i src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
